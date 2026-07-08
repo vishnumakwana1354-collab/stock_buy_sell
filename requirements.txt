@@ -5,4 +5,3 @@ yfinance
 scikit-learn
 joblib
 plotly
-os
